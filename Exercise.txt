@@ -1,0 +1,9 @@
+1. Explain what terminal is (own words)
+Terminal is used by an operating system to carry out tasks through the command lines without the need for any visibility. It is on every computer and increases efficiency. 
+
+
+2.What is the major difference between Git and Github?
+Git and GitHub are two different systems for managing files. Git is a local system that has files unique to your computer where as Github is an online open source tool to manage files that can be shared with those with a GitHub account.
+
+3.Why do we use GitHub?
+It transfers local repositories to remote repositories so anyone with a GitHub account can view and collaborate on code. Github has a strong community that would be useful for networking as well as code inspiration/collaboration.
